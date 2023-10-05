@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Pikachu
+  m_EditorClassIdentifier: Assembly-CSharp::BlocksProfile
+  sprites:
+  - {fileID: 21300000, guid: d45ca5249d4248848b1d8833052e8c37, type: 3}
+  - {fileID: 21300000, guid: efa2ad297529d7549a51bfd03bc29acd, type: 3}
+  - {fileID: 21300000, guid: 08e3a39e581c3a444af8a4987fd3b366, type: 3}
+  - {fileID: 21300000, guid: a90cc3fea4b2a0842b85e70c5fc211e4, type: 3}
+  - {fileID: 21300000, guid: 4b6d229c2a359d3479f00ae88b949b72, type: 3}
+  - {fileID: 21300000, guid: 01080e65f83bd1c42bb33b725465e5f6, type: 3}
+  - {fileID: 21300000, guid: bbb9e49a195322a43ba0e6923aee6ea9, type: 3}
+  - {fileID: 21300000, guid: fba272fc46cd00c42a5d3e774c8015a1, type: 3}
+  - {fileID: 21300000, guid: 576e318dbdf17f844adfebd9033477d9, type: 3}
+  - {fileID: 21300000, guid: 28dcf64300bd0f549b04f77d4f9e979b, type: 3}
+  - {fileID: 21300000, guid: e7b968024ef62a64c87b845be36e2696, type: 3}
+  - {fileID: 21300000, guid: 7772bcfcce22a9b45a1d8b6aff2f1689, type: 3}
+  - {fileID: 21300000, guid: 98d66f3d3ee4c9d46ad2b06faf9cda32, type: 3}
+  - {fileID: 21300000, guid: 4bb75eefa68c70c4fbd17adf91d3761e, type: 3}
+  - {fileID: 21300000, guid: 50f753dcf91a93d42ae9fa5c76bf413f, type: 3}
+  - {fileID: 21300000, guid: 5f87e8b801445f04daf87abeb41f9b2e, type: 3}
+  - {fileID: 21300000, guid: 661808a20a1a9ff43a8644c1487c364d, type: 3}
+  - {fileID: 21300000, guid: 4ccf299faf433e14f8dd08e66af1fdc7, type: 3}
+  - {fileID: 21300000, guid: d1c285faa92394145a20d9279c1dcd94, type: 3}
+  - {fileID: 21300000, guid: 0a2d5df91d40e7647947b1e4a44747f3, type: 3}
+  - {fileID: 21300000, guid: 4ef1572e4be6c9f4d97da4a853fb6269, type: 3}
+  - {fileID: 21300000, guid: 1104eea57bbb0854c8dedf9edc8c9080, type: 3}
+  - {fileID: 21300000, guid: 73dae94c50119434aab632def2413cdc, type: 3}
+  - {fileID: 21300000, guid: 3feb84422cf794c4da2cd9cdcc901268, type: 3}
+  - {fileID: 21300000, guid: 83855464d348cf245b1219d08cc062a9, type: 3}
+  - {fileID: 21300000, guid: 367826b047646f049bd34cf20ab50156, type: 3}
+  - {fileID: 21300000, guid: 67843ab3f53661744a995bf7254754e5, type: 3}
+  - {fileID: 21300000, guid: 25958027cb1a8d7418cae4172a81c008, type: 3}
+  - {fileID: 21300000, guid: 13f9780ec9fa69d4f9f909e757e60241, type: 3}
+  - {fileID: 21300000, guid: 2b01cf0ad655fa54dbb3fc08333894c7, type: 3}
+  - {fileID: 21300000, guid: 8bbc3c4424053244eb7c765f46f286d4, type: 3}
+  - {fileID: 21300000, guid: 09f9c82ab164d7d43bd30d152cb96b7f, type: 3}
+  - {fileID: 21300000, guid: 117cada83500f534d82532c74b64378c, type: 3}
+  - {fileID: 21300000, guid: 501c550993ad857498b7e6cb91759a22, type: 3}
+  - {fileID: 21300000, guid: 68373dcfdc73cf849b2fd1d801ba5cb2, type: 3}
+  - {fileID: 21300000, guid: 30a4a1688cfc8b54c837a9417e1bd501, type: 3}
